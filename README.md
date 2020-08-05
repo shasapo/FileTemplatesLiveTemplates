@@ -1,10 +1,11 @@
 # File Templates & Live Templates
 
+
 <b>What is that ?</b>
 Feature in IntelliJ IDEA that as it's name, it is indeed a template to help you benefit in type lesser and write faster with perfect accuracy.
 It will also help you to save time, and avoid injuries caused by excessive typing !
 
-Read my stories in medium on how to import this custom template or even create / modify it. 
+Read my stories in medium on how to import this custom template or even create / modify it.  (https://medium.com/@sapotahutempe/file-templates-live-templates-android-studio-intellij-idea-a023a59f4a88)
 
 # Custom FileTemplates
 1. Interface + Implementation
